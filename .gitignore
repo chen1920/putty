@@ -134,7 +134,6 @@
 /windows/Makefile.lcc
 /windows/MSVC
 /windows/DEVCPP
-/windows/VS2010
 /windows/VS2012
 /windows/*.log
 /windows/*.GID
@@ -150,3 +149,15 @@
 /windows/*.msi
 /windows/*.wixobj
 /windows/*.wixpdb
+*.obj
+*.ipch
+*.tlog
+*.exe
+*.sdf
+*.log
+*.pdb
+*.suo
+*.cache
+*.manifest
+*.lastbuildstate
+*.res
