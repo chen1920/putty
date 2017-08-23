@@ -2181,3 +2181,7 @@ char *bignum_decimal(Bignum x)
     sfree(workspace);
     return ret;
 }
+
+int _addcarry_u64(){
+	return 0;
+}

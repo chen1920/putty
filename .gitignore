@@ -134,7 +134,6 @@
 /windows/Makefile.lcc
 /windows/MSVC
 /windows/DEVCPP
-/windows/VS2012
 /windows/*.log
 /windows/*.GID
 /windows/local
@@ -161,3 +160,6 @@
 *.manifest
 *.lastbuildstate
 *.res
+*.db
+*.idb
+*.ilk
